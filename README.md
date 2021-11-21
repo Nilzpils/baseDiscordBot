@@ -17,3 +17,4 @@ To start on this project you have to do the following:
 Duplicate the env.sample file, name it .env then adjust to your own parameters.
 
 `CLIENTLOGIN` The bots login token
+`PREFIX` The character used to trigger text commands
