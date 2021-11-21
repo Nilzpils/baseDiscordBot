@@ -16,4 +16,4 @@ To start on this project you have to do the following:
 ## .env file first time setup
 Duplicate the env.sample file, name it .env then adjust to your own parameters.
 
-`CLIENTLOGIN` The bots login token request one from Nutty#9945.
+`CLIENTLOGIN` The bots login token
